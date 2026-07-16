@@ -3,7 +3,7 @@
 
     <application
         android:allowBackup="true"
-        android:label="小六壬"
+        android:label="随心"
         android:theme="@android:style/Theme.Material.Light.NoActionBar">
         <activity
             android:name=".MainActivity"
